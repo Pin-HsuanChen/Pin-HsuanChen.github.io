@@ -22,6 +22,7 @@ h1, h2, h3 {
 h1 {
   font-size:28px;
   font-weight: 500;
+  color: #40e0d0;
 }
 
 h2 {
@@ -101,7 +102,7 @@ th {
 
 img {
   max-width:50%;
-  border-radius: 50%;
+  border-radius:50%;
 }
 
 header {
