@@ -100,7 +100,7 @@ th {
 }
 
 img {
-  border-radius:50%;
+  max-width:100%;
 }
 
 header {
